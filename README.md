@@ -1,5 +1,8 @@
 # Imersão Alura Front-End 2025 Projects
 
+![spotify html](https://github.com/karenkrieger/imersao-front-end-alura/blob/main/spotify-html/spotify-layout.png)
+
+
 This repository contains two projects developed as part of my participation in the **Imersão Alura Front-End 2025**. During the immersion, I had the opportunity to deepen my front-end skills by building two distinct projects:
 
 ## Projects
@@ -8,6 +11,7 @@ This repository contains two projects developed as part of my participation in t
 - **Description:** A static website layout inspired by Spotify, designed using pure HTML and CSS.
 - **Technologies:** HTML5, CSS3
 - **Usage:** Open the `index.html` file in your browser to view the layout.
+
 
 ### 2. Spotify Site with React
 - **Description:** A dynamic version of the Spotify layout built with React. This project demonstrates component-based architecture and interactive UI elements.
