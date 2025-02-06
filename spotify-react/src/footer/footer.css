@@ -1,0 +1,41 @@
+.disclamer-premium{
+    position: fixed;
+    bottom: 0;
+    display: flex;
+    left: 0;
+    right: 0;
+    background: linear-gradient(to right, #ae2896, #509bf5);
+    padding: 15px 40px;
+    justify-content: space-between;
+    z-index: 1;
+}
+
+.disclamer-premium .text{
+    flex-shrink: 0;
+}
+
+.disclamer-premium .disclamer-premium__title{
+    color: #ffffff;
+    text-transform: uppercase;
+    font-weight: 400;
+    font-size: 12px;
+    margin-bottom: 10px;
+}
+
+.disclamer-premium .disclamer-premium__subtitle{
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 14px;
+}
+
+.disclamer-premium button{
+    background-color: #ffffff;
+    border-radius: 40px;
+    color: #000000;
+    font-weight: bold;
+    border: 0;
+    font-size: 16px;
+    cursor: pointer;
+    flex-shrink: 0;
+    padding: 14px 30px;
+}
